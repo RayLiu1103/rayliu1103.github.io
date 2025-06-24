@@ -10,4 +10,5 @@
 
 
 # 📚 Services
+- Volunteer: The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
 - Volunteer: The 1st International Workshop on AI for Data Editing (AI4DE) @ The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025

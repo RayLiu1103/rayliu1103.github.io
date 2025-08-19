@@ -1,6 +1,5 @@
 I am a Ph.D. student in the Department of Electrical Engineering and Computer Science at the University of Kansas, advised by Dr. [Dongjie Wang](https://wangdongjie100.github.io/).
 
+Rui Liu is currently a Ph.D. student in the Department of Electrical Engineering and Computer Science at the University of Kansas, USA, under the supervision of Dr. Dongjie Wang. His research focuses on tabular data mining and tabular foundation models. He is also dedicated to integrating LLMs, federated learning , and causal inference into tabular data learning, aiming to advance efficient, interpretable, and scalable data science systems.
+
 I obtained my master's degree from the School of  Electrical Engineering and Computer Science at [Oregon State University](https://oregonstate.edu/), under the supervision of Dr. [Thinh Nguyen](https://web.engr.oregonstate.edu/~thinhq/) and Dr. [Jinsub Kim](https://sites.google.com/a/cornell.edu/jinsub-kim/home).
-
-My research interests include **reinforcement learning**, **data science**, and **LLM**.
-

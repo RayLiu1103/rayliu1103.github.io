@@ -10,6 +10,8 @@
 
 
 # 📚 Services
+- Outreach Volunteer: IEEE International Conference on Big Data (IEEE BigData 2026)
+- Reviewer: AAAI 2026 Workshop on AI for Urban Planning (AI4UP 2026)
 - Reviewer: The 1st International Workshop on Geospatial Foundation Agents, held in conjunction with ACM SIGSPATIAL 2025 (GeoGenAgent'25)
 - Reviewer: The ACM CHI conference on Human Factors in Computing Systems (CHI 2026)
 - Volunteer: The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)

@@ -1,4 +1,4 @@
-I am a Ph.D. student in the Department of Electrical Engineering and Computer Science at the University of Kansas, advised by Dr. [Dongjie Wang](https://wangdongjie100.github.io/). 
+I am a Ph.D. student in the School of Computing at Clemson University, advised by Dr. [Kunpeng Liu](https://www.kunpengliu.com/). Prior to joining Clemson, I was a Ph.D. student in the Department of Electrical Engineering and Computer Science at the University of Kansas, advised by Dr. [Dongjie Wang](https://wangdongjie100.github.io/). 
 
 My research focuses on **tabular data mining** and **tabular foundation models**, particularly exploring the integration of **large language models (LLMs)**, **federated learning**, and **causal inference** to build efficient, interpretable, and scalable data science systems.
 

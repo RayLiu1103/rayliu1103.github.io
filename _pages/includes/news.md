@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 One paper has been accepted by IEEE BigData 2026!
 - *2026.08*: 🎉 One paper has been accepted by ACM SIGSPATIAL 2026!
 - *2026.08*: 🎉 One paper has been accepted by CIKM 2026!
 - *2026.08*: 🎉 One paper has been accepted by ACM AI Summit 2026!
